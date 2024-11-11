@@ -10,9 +10,6 @@
 
 # Installation
 
-## Clone project
-```bash
-```
 ## Install Composer Dependencies
 ```bash
 composer install
