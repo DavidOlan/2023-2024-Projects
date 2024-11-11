@@ -1,16 +1,8 @@
 # Church Management System
 
 <p align="center">
-<a href="https://travis-ci.org/myckhel/church-management-system"><img src="https://travis-ci.org/myckhel/church-management-system.svg?branch=master" alt="Build Status"></a>
 </p>
 <a href="https://cms.trueworthfabrics.com.ng">Project Link</a>
-<details>
-  <summary>Logins!</summary>
-    ```
-- Email: kylemoose45@gmail.com
-    - Password: 123456789
-    ```
-</details>
 
 # About Church Management System
     Its a web application for churches that manages administrative activities in the church.
