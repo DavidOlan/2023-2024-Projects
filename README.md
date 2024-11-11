@@ -2,7 +2,6 @@
 
 <p align="center">
 </p>
-<a href="https://cms.trueworthfabrics.com.ng">Project Link</a>
 
 # About Church Management System
     Its a web application for churches that manages administrative activities in the church.
@@ -13,7 +12,6 @@
 
 ## Clone project
 ```bash
-git clone https://github.com/myckhel/church-management-system.git
 ```
 ## Install Composer Dependencies
 ```bash
@@ -64,9 +62,4 @@ php artisan migrate
 php artisan serve
 ```
 
-## Previews
 
-![Dashboard view](https://github.com/myckhel/church-management-system/blob/master/public/img/cms.JPG)
-![Dashboard view2](https://github.com/myckhel/church-management-system/blob/master/public/img/cms2.JPG)
-![Dashboard view3](https://github.com/myckhel/church-management-system/blob/master/public/img/cms3.JPG)
-![Dashboard view4](https://github.com/myckhel/church-management-system/blob/master/public/img/cms4.JPG)
